@@ -1,0 +1,27 @@
+body {
+
+    background-color: bisque;
+}
+
+.text {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    font-weight: bolder;
+    color:darkred;
+    background-color: beige;
+}
+
+.anda {
+
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200;
+    width: 250;
+}
